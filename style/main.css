@@ -30,8 +30,9 @@ a {
   margin-right: 448px;
 }
 
-.ul:hover {
+.link:hover {
   color: #ffc492;
+  text-decoration: line-through;
 }
 
 .link {
@@ -64,11 +65,12 @@ a {
 .wrap {
   width: 1600px;
   background-color: #19161b;
-}
+  /* margin-left: 15px; */
+} 
 
 /* main */
 .wrap1 {
-  margin-left: -15px;
+   margin-left: 15px;
   width: 1600px;
   background-color: #19161b;
 }
@@ -258,9 +260,167 @@ a {
   margin-top: 255px;
 }
 
+.know1 {
+  display: flex;
+  gap: 102px;
+  padding: 160px;
+}
 
+.imeges1 {
+  width: 240px;
+  height: 500px;
+  box-sizing: border-box;
+  margin-top: 45px;
+}
 
+.imeges2 {
+  width: 240px;
+  height: 500px;
+  box-sizing: border-box;
 
+}
+
+/* section */
+.paje1 {
+  position: relative;
+  left: -1635px;
+  top: 160px;
+}
+
+.paje3 {
+  margin-top: 1000px;
+  margin-left: -2435px;
+}
+
+/* section */
+.chiziq {
+  width: 437px;
+  height: 1px;
+  background-color: #FFFFFF;
+}
+
+.time {
+  font-family: Playfair Display;
+  font-size: 32px;
+  font-weight: 500;
+  line-height: 48px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #FFFFFF;
+  width: 436px;
+  height: 288px;
+  margin-top: 43px;
+  margin-bottom: 68px;
+
+}
+
+.h6 {
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #FFFFFF;
+}
+
+.jjko {
+  font-family: Poppins;
+  font-size: 12px;
+  font-weight: bold;
+  line-height: 16px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #FFFFFF;
+}
+
+.llll {
+  display: flex;
+  gap: 256px;
+  margin-bottom: 22px;
+}
+
+.run-txt {
+  width: 674px;
+  height: 668px;
+  background-color: #1F1D21;
+  padding: 80px 78px 84px 154px;
+}
+
+.edit1 {
+  padding-top: 160px;
+  display: flex;
+}
+
+/* section */
+.day1 {
+  width: 405px;
+  height: 526px;
+  background-color: #1F1D21;
+  padding-top: 30px;
+  padding-left: 32px;
+}
+
+.home-txt {
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #B8B8B8;
+}
+
+.color {
+  font-family: Playfair Display;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 48px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  width: 341px;
+  height: 96px;
+  color: #FFFFFF;
+
+}
+
+/* .h1-txtt {
+  font-size: 48px;
+  color: #FFFFFF;
+} */
+
+.file {
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  width: 341px;
+  height: 84px;
+  color: #B8B8B8;
+}
+
+.imgf1 {
+  margin-left: -33px;
+  margin-top: 60px;
+}
+
+.day {
+  display: flex;
+  gap: 32px;
+  margin-top: 282px;
+  margin-left: 160px;
+  padding-bottom: 160px;
+}
+
+/* home end */
 
 /* menyu-------logo.html */
 
@@ -448,45 +608,51 @@ a {
 .more2 {
   padding-left: 519px;
   padding-top: 44px;
-  padding-bottom:32px;
+  padding-bottom: 32px;
 }
 
 .center {
   width: 1600px;
   height: 0.5px;
-  background-color:#B8B8B8;
+  background-color: #B8B8B8;
 }
-.bacraound-txt{
+
+.bacraound-txt {
   display: flex;
   align-items: center;
   padding: 29px;
 }
-.outline{
+
+.outline {
   font-family: Poppins;
-font-size: 16px;
-font-weight: 400;
-line-height: 24px;
-text-align: left;
-text-underline-position: from-font;
-text-decoration-skip-ink: none;
-color: #B8B8B8;
-padding-left: 161px;
-margin-right:284px;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #B8B8B8;
+  padding-left: 161px;
+  margin-right: 284px;
 }
-.linklar{
+
+.linklar {
   display: flex;
   gap: 24px;
   align-items: center;
 }
-.contact{
-font-family: Poppins;
-font-size: 16px;
-font-weight: 500;
-line-height: 24px;
-text-align: left;
-text-underline-position: from-font;
-text-decoration-skip-ink: none;
-color: #FFFFFF;
-padding-left: 455px;
-padding-right: 168px;
+
+.contact {
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #FFFFFF;
+  padding-left: 455px;
+  padding-right: 168px;
 }
+
+/* logo.html end */
