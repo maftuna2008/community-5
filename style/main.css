@@ -32,7 +32,7 @@ a {
 
 .link:hover {
   color: #ffc492;
-  text-decoration: line-through;
+  text-decoration:#FFB577;
 }
 
 .link {
@@ -283,13 +283,13 @@ a {
 /* section */
 .paje1 {
   position: relative;
-  left: -1635px;
+  left: 10px;
   top: 160px;
 }
 
 .paje3 {
-  margin-top: 1000px;
-  margin-left: -2435px;
+  margin-top: 80px;
+  margin-left:700px;
 }
 
 /* section */
@@ -415,14 +415,14 @@ a {
 .day {
   display: flex;
   gap: 32px;
-  margin-top: 282px;
+  padding-top: 282px;
   margin-left: 160px;
   padding-bottom: 160px;
 }
 
 /* home end */
 
-/* menyu-------logo.html */
+/* --------menu.html--------- */
 
 .discover {
   display: flex;
@@ -655,4 +655,9 @@ a {
   padding-right: 168px;
 }
 
-/* logo.html end */
+/* menu.html end */
+
+/* --------about.html start ---------*/
+.imeges34{
+  margin-left: 160px;
+}
