@@ -1030,12 +1030,15 @@ a {
   margin-right: -35px;
   margin-bottom: 160px;
 }
+
 .button3 {
   margin-top: 24px;
 }
+
 .jekson {
   padding-top: 54px;
 }
+
 .ghh {
   display: flex;
   gap: 114px;
@@ -1043,6 +1046,7 @@ a {
   margin-bottom: 40px;
   padding-left: 160px;
 }
+
 /* blog--end */
 /* blod inner page  */
 .jekson1 {
@@ -1051,6 +1055,7 @@ a {
   align-items: center;
   padding-left: 589px;
 }
+
 .store {
   font-family: Playfair Display;
   font-size: 48px;
@@ -1060,122 +1065,180 @@ a {
   text-underline-position: from-font;
   text-decoration-skip-ink: none;
   color: #ffffff;
-   width: 1061px;
+  width: 1061px;
   height: 116px;
   padding-left: 269px;
   margin-right: 270px;
   margin-top: 56px;
-  margin-bottom:80px;
+  margin-bottom: 80px;
 
 }
+
 .blog-img {
   padding-left: 160px;
   margin-bottom: 160px;
 }
-.make{
-font-family: Playfair Display;
-font-size: 32px;
-font-weight: 700;
-line-height: 48px;
-text-align: left;
-text-underline-position: from-font;
-text-decoration-skip-ink: none;
-color: #FFFFFF;
-width: 842px;
-height: 96px;
-padding-left:379px;
-margin-bottom: 90px;
-}
-.wiriting1{
-font-family: Poppins;
-font-size: 16px;
-font-weight: 400;
-line-height: 28px;
-text-align: left; 
-text-underline-position: from-font;
-text-decoration-skip-ink: none;
-color: #B8B8B8;
-padding-bottom:16px;
-width: 1142px;
-height: 168px;
-padding-left:379px;
-}
-.transform{
-  width: 842px;
-height: 30px;
-font-family: Playfair Display;
-font-size: 20px;
-font-weight: 700;
-line-height: 30px;
-text-align: left;
-text-underline-position: from-font;
-text-decoration-skip-ink: none;
-color: #FFFFFF;
-padding-left: 379px;
-margin-bottom: 40px;
-}
- .fff{
-margin-bottom: -50px;
-} 
 
-.ffff{
+.make {
+  font-family: Playfair Display;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 48px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #FFFFFF;
+  width: 842px;
+  height: 96px;
+  padding-left: 379px;
+  margin-bottom: 90px;
+}
+
+.wiriting1 {
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #B8B8B8;
+  padding-bottom: 16px;
+  width: 1142px;
+  height: 168px;
+  padding-left: 379px;
+}
+
+.transform {
+  width: 842px;
+  height: 30px;
+  font-family: Playfair Display;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 30px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #FFFFFF;
+  padding-left: 379px;
+  margin-bottom: 40px;
+}
+
+.fff {
+  margin-bottom: -50px;
+}
+
+.ffff {
   margin-bottom: 80px;
 }
+
 /* blod inner page <------end-----> */
-.code-txt{
-font-family: Playfair Display;
-font-size: 48px;
-font-weight: 700;
-line-height: 58px;
-text-align: left;
-text-underline-position: from-font;
-text-decoration-skip-ink: none;
-color: rgba(255, 255, 255, 1);
-width: 658px;
-height: 116px;
+.code-txt {
+  font-family: Playfair Display;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 58px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: rgba(255, 255, 255, 1);
+  width: 658px;
+  height: 116px;
 }
-.code_txt{
-font-family: Poppins;
-font-size: 16px;
-font-weight: 400;
-line-height: 28px;
-text-align: left;
-text-underline-position: from-font;
-text-decoration-skip-ink: none;
-color: rgba(255, 255, 255, 1);
+
+.code_txt {
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: rgba(255, 255, 255, 1);
+  margin-top: 24px;
+  margin-bottom: 40px;
 }
-.name{
-  padding-top: 14px;
-  padding-left: 32px;
-  padding-bottom: 14px;
-  padding-right: 221px;
-  background-color: transparent;
-  border:#B8B8B8;
-}
-.email{
+
+.name {
   padding-top: 14px;
   padding-left: 32px;
   padding-bottom: 14px;
   padding-right: 221px;
   background-color: transparent;
   border: #B8B8B8;
+  width: 297px;
+  height: 56px;
+  border-color: #B8B8B8;
+  border-style: double;
 }
-.messages{
+
+.email {
+  padding-top: 14px;
+  padding-left: 32px;
+  padding-bottom: 14px;
+  padding-right: 221px;
+  background-color: transparent;
+  border: #B8B8B8;
+  width: 296px;
+  height: 56px;
+  border-color: #B8B8B8;
+  border-style: double;
+
+}
+
+.messages {
   padding-top: 14px;
   padding-left: 32px;
   padding-bottom: 105px;
-  padding-right: 550px;
+  padding-right: 500px;
   background-color: transparent;
-  border:white;
-  border-color: #ffffff;
-  
+  border: white;
+  border-color: #B8B8B8;
+  border-style: double;
+  width: 623px;
+  height: 147px;
+  margin-top: 24px;
+  margin-bottom: 32px;
 }
-.send-messege{
+
+.send-messege {
   padding-top: 20px;
   padding-left: 32px;
   padding-bottom: 20px;
   padding-right: 64px;
   background-color: transparent;
-  border:white;
+  border: white;
   color: rgba(255, 255, 255, 1);
+  border-color: #b8b8b8;
+  border-color: #B8B8B8;
+  border-style: double;
+  width: 213px;
+  height: 64px;
+  background-color: rgba(39, 37, 45, 1);
+}
+
+.textlar {
+  display: flex;
+  gap: 32px;
+}
+
+.margin1 {
+  margin-top: 96px;
+  margin-left: 160px;
+  margin-bottom: 160px;
+  display: flex;
+}
+
+.contact1 {
+  margin-left: 78px;
+  margin-right: 64px;
+  margin-top: 179px;
+}
+
+.contact2 {
+  width: 240px;
+  height: 500px;
+}
+.contact:hover{
+color: #ffb577;
 }
