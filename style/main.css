@@ -1242,3 +1242,8 @@ a {
 .contact:hover{
 color: #ffb577;
 }
+.button3:hover{
+  border-style: double;
+  background-color: #1f1d21;
+  border-color: #b8b8b8;
+}
